@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Python.**
 
-- 🌱 I’m currently learning **data science.**
+- 🌱 I’m currently learning **Data Science.**
 
 
 <p align="left">
